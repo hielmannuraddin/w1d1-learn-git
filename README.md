@@ -9,7 +9,7 @@ This project will consist of three separate mini-projects to get you comfortable
 
 In the first mini-project, you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your GitHub.
 
-In the second mini-project, you'll be mimicking the steps you'll take with nearly every DevMountain project you do. You'll 'fork' the DevMountain repository, link your computer with your fork, then pushing those changes up to your GitHub.
+In the second mini-project, you'll be mimicking the steps you'll take with nearly every Makers Institute project you do. You'll 'fork' the Makers Institute repository, link your computer with your fork, then pushing those changes up to your GitHub.
 
 Finally, in the last mini-project you'll be mimicking the steps you'll take during the group project portion. You'll fork your group's repo, link your computer with your fork, push changes to your GitHub, then make a 'Pull Request' into your group's repo.
 
@@ -37,11 +37,11 @@ This usually looks like this:
 
 * If you did this correctly, check your GitHub repository for your new code.
 
-## Mini-Project 2: DevMountain Project
-* Now what we're going to do is walk through how you would normally treat a day's project here at DevMountain. 
+## Mini-Project 2: Makers Institute Project
+* Now what we're going to do is walk through how you would normally treat a day's project here at Makers Institute. 
 
 ### Step 1: Fork the Repo
-First, you'll want to 'fork' the repo. On the top right of this page, you should see a button that says 'fork.' This will essentially copy all of the code from this repository, but make it as a new repository under your account. As you can imagine, you can't push directly to the DevMountain repo, because that would not be secure for DevMountain (anyone could make any changes they want). What you should do is create a fork of this repo, then push to your own fork because it's under your own account.
+First, you'll want to 'fork' the repo. On the top right of this page, you should see a button that says 'fork.' This will essentially copy all of the code from this repository, but make it as a new repository under your account. As you can imagine, you can't push directly to the Makers Institute repo, because that would not be secure for Makers Institute (anyone could make any changes they want). What you should do is create a fork of this repo, then push to your own fork because it's under your own account.
 
 ### Step 2: Clone the Fork
 * Once you've forked this repo, you're going to want to clone your forked repository. Go to your freshly forked page and copy the url (click on the green "clone or download" button on the right). Then, head over to your terminal and type `git clone [Repository URL]`, replacing Repositry URL with the URL you just grabbed from GitHub. This takes what's on GitHub and essentially downloads it so you can now make changes to it on your local computer.
